@@ -10,7 +10,7 @@ Este proyecto se desarrolló en Python 3.8.5 usando los paquetes **numpy**, **pa
 
 ### Adquisición de Datos
 
-Obtuve las cifras de vacunados contra COVID-19 actualizadas a la fecha **2021-04-03** de la Plataforma Nacional de Datos Abiertos del Gobierno de Perú. Los conjuntos de datos utilizados están disponibles en el repositorio "Vacunación contra COVID-19" del Ministerio de Salud [[1]].
+Obtuve las cifras de vacunados contra COVID-19 actualizadas a la fecha **2021-08-07** de la Plataforma Nacional de Datos Abiertos del Gobierno de Perú. Los conjuntos de datos utilizados están disponibles en el repositorio "Vacunación contra COVID-19" del Ministerio de Salud [[1]].
 
 El indicador del umbral mínimo sobre la Inmunidad de Rebaño se definió tomando en consideración lo expuesto en la publicación "Coronavirus disease (COVID-19): Herd immunity, lockdowns and COVID-19" de la Organización Mundial de la Salud [[2]].
 
