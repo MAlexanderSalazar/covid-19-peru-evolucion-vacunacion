@@ -10,7 +10,7 @@ Este proyecto se desarrolló en Python 3.8.5 usando los paquetes **numpy**, **pa
 
 ### Adquisición de Datos
 
-Obtuve las cifras de vacunados contra COVID-19 actualizadas a la fecha **2021-09-20** de la Plataforma Nacional de Datos Abiertos del Gobierno de Perú. Los conjuntos de datos utilizados están disponibles en el repositorio "Vacunación contra COVID-19" del Ministerio de Salud [[1]].
+Obtuve las cifras de vacunados contra COVID-19 actualizadas a la fecha **2022-01-13** de la Plataforma Nacional de Datos Abiertos del Gobierno de Perú. Los conjuntos de datos utilizados están disponibles en el repositorio "Vacunación contra COVID-19" del Ministerio de Salud [[1]].
 
 El indicador del umbral mínimo sobre la Inmunidad de Rebaño se definió tomando en consideración lo expuesto en la publicación "Coronavirus disease (COVID-19): Herd immunity, lockdowns and COVID-19" de la Organización Mundial de la Salud [[2]].
 
@@ -18,61 +18,61 @@ La población total por regiones del 2020 se recuperó manualmente del gráfico 
 
 ## Resultados
 
-![alt text](dist/20210921_PERÚ.png "PERÚ")
+![alt text](dist/20220113_PERÚ.png "PERÚ")
 
-![alt text](dist/20210921_AMAZONAS.png "AMAZONAS")
+![alt text](dist/20220113_AMAZONAS.png "AMAZONAS")
 
-![alt text](dist/20210921_ANCASH.png "ANCASH")
+![alt text](dist/20220113_ANCASH.png "ANCASH")
 
-![alt text](dist/20210921_APURIMAC.png "APURIMAC")
+![alt text](dist/20220113_APURIMAC.png "APURIMAC")
 
-![alt text](dist/20210921_AREQUIPA.png "AREQUIPA")
+![alt text](dist/20220113_AREQUIPA.png "AREQUIPA")
 
-![alt text](dist/20210921_AYACUCHO.png "AYACUCHO")
+![alt text](dist/20220113_AYACUCHO.png "AYACUCHO")
 
-![alt text](dist/20210921_CAJAMARCA.png "CAJAMARCA")
+![alt text](dist/20220113_CAJAMARCA.png "CAJAMARCA")
 
-![alt text](dist/20210921_CALLAO.png "CALLAO")
+![alt text](dist/20220113_CALLAO.png "CALLAO")
 
-![alt text](dist/20210921_CUSCO.png "CUSCO")
+![alt text](dist/20220113_CUSCO.png "CUSCO")
 
-![alt text](dist/20210921_HUANCAVELICA.png "HUANCAVELICA")
+![alt text](dist/20220113_HUANCAVELICA.png "HUANCAVELICA")
 
-![alt text](dist/20210921_HUANUCO.png "HUANUCO")
+![alt text](dist/20220113_HUANUCO.png "HUANUCO")
 
-![alt text](dist/20210921_ICA.png "ICA")
+![alt text](dist/20220113_ICA.png "ICA")
 
-![alt text](dist/20210921_JUNIN.png "JUNIN")
+![alt text](dist/20220113_JUNIN.png "JUNIN")
 
-![alt text](dist/20210921_LA_LIBERTAD.png "LA LIBERTAD")
+![alt text](dist/20220113_LA_LIBERTAD.png "LA LIBERTAD")
 
-![alt text](dist/20210921_LAMBAYEQUE.png "LAMBAYEQUE")
+![alt text](dist/20220113_LAMBAYEQUE.png "LAMBAYEQUE")
 
-![alt text](dist/20210921_LIMA.png "LIMA")
+![alt text](dist/20220113_LIMA.png "LIMA")
 
-![alt text](dist/20210921_LORETO.png "LORETO")
+![alt text](dist/20220113_LORETO.png "LORETO")
 
-![alt text](dist/20210921_MADRE_DE_DIOS.png "MADRE DE DIOS")
+![alt text](dist/20220113_MADRE_DE_DIOS.png "MADRE DE DIOS")
 
-![alt text](dist/20210921_MOQUEGUA.png "MOQUEGUA")
+![alt text](dist/20220113_MOQUEGUA.png "MOQUEGUA")
 
-![alt text](dist/20210921_PASCO.png "PASCO")
+![alt text](dist/20220113_PASCO.png "PASCO")
 
-![alt text](dist/20210921_PIURA.png "PIURA")
+![alt text](dist/20220113_PIURA.png "PIURA")
 
-![alt text](dist/20210921_PUNO.png "PUNO")
+![alt text](dist/20220113_PUNO.png "PUNO")
 
-![alt text](dist/20210921_SAN_MARTIN.png "SAN MARTIN")
+![alt text](dist/20220113_SAN_MARTIN.png "SAN MARTIN")
 
-![alt text](dist/20210921_TACNA.png "TACNA")
+![alt text](dist/20220113_TACNA.png "TACNA")
 
-![alt text](dist/20210921_TUMBES.png "TUMBES")
+![alt text](dist/20220113_TUMBES.png "TUMBES")
 
-![alt text](dist/20210921_UCAYALI.png "UCAYALI")
+![alt text](dist/20220113_UCAYALI.png "UCAYALI")
 
 ## Referencias
 
-1. Ministerio de Salud - MINSA. (s.f.). _[Vacunación contra COVID - 19 - [Ministerio de Salud - MINSA] | Plataforma Nacional de Datos Abiertos_. Gobierno del Perú. Recuperado el 21 de septiembre de 2021 de https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
+1. Ministerio de Salud - MINSA. (s.f.). _[Vacunación contra COVID - 19 - [Ministerio de Salud - MINSA] | Plataforma Nacional de Datos Abiertos_. Gobierno del Perú. Recuperado el 13 de enero de 2022 de https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
 
 [1]: https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
 
